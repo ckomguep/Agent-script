@@ -1,6 +1,6 @@
 #!/bin/bash
 
-Author 
+#Author: Carole
 
 if [$? -eq 0 ]
 then
